@@ -1,0 +1,415 @@
+TVibe
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist
+cProcessPCH /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch Vibe/Vibe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o /Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o /Users/kevinnguy/Desktop/Vibe/Vibe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o /Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe normal armv7
+cCopyStringsFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings Vibe/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app /Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets
+cProcessInfoPlistFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist /Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist
+cGenerateDSYMFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe
+cProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision
+cTouch /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent
+cCodeSign /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c000000005324D5B00000000000000094
+t1394922928
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c000000005324D5B00000000000000096
+t1394922928
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534CDD6900000000004D7BC0
+t1397546345
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005324D5C10000000002759920
+t1394922945
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch
+t1410671300
+s87556
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o
+t1410671300
+s61796
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o
+t1410671300
+s42872
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/Vibe.LinkFileList
+c00000000541522C200000000000001A3
+t1410671298
+s419
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o
+t1410671300
+s3752
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent
+t1410671302
+s487
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_dependencies.txt
+t1410671302
+s365
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_generated_info.plist
+t1410671302
+s525
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+t1410671302
+s374
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM
+t2
+s0
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Base.lproj/Main.storyboardc
+t1410671302
+s170
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist
+t1410671302
+s1285
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/PkgInfo
+t1410671302
+s8
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist
+t1410671298
+s150
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe
+t1410671300
+s54748
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision
+t1410671302
+s9659
+
+N/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings
+t1410671300
+s42
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard
+c00000000541522C20000000000000AAA
+t1410671298
+s2730
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets
+c00000000541522270000000000000088
+t1410671143
+s136
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m
+c000000005415222600000000000007DB
+t1410671142
+s2011
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m
+c00000000541522C200000000000002CE
+t1410671298
+s718
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist
+c000000005415222600000000000004CA
+t1410671142
+s1226
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Prefix.pch
+c00000000541522260000000000000158
+t1410671142
+s344
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/en.lproj/InfoPlist.strings
+c0000000054152226000000000000002D
+t1410671142
+s45
+
+N/Users/kevinnguy/Desktop/Vibe/Vibe/main.m
+c00000000541522260000000000000152
+t1410671142
+s338
+
+N/Users/kevinnguy/Library/MobileDevice/Provisioning Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision
+c00000000540F895700000000000025BB
+t1410304343
+s9659
+
+CBuild AST from /Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m
+r0
+
+CBuild AST from /Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m
+r0
+
+CBuild AST from /Users/kevinnguy/Desktop/Vibe/Vibe/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3b8e93425ac5b941^624cb2425ac5b941^---0#1#1#--18"Check dependencies36"C78842AB-50E8-4C86-9DF2-C314700BB849-
+
+CCodeSign /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+s432364102.852641
+e432364103.230340
+r1
+xCodeSign
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CodeSign DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app64"CodeSign DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app9d9fda465ac5b941^feed3a475ac5b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/0000000000000000^1016"CodeSign DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app    cd /Users/kevinnguy/Desktop/Vibe    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Kevin Nguy (AAQATP27ZL)" and provisioning profile "iOS Team Provisioning Profile: *" (1bd0ff25-71bd-4ff0-a964-d16a1591d501)    /usr/bin/codesign --force --sign 18773E0D77F67E10FDD4E6ECC06C97E30CF4F091 --resource-rules=/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist --entitlements /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app36"2740F30A-24F2-4B0F-9FAC-7C96DD013866-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCompileAssetCatalog /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app /Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets
+s432364100.891099
+e432364102.795748
+r1
+xCompileAssetCatalog
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+x/Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/LaunchImage-700-568h@2x.png
+o/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Assets.car
+o/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app Vibe/Images.xcassets96"CompileAssetCatalog DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app Vibe/Images.xcassetsd733e4445ac5b941^78b6cb465ac5b941^-393"/* com.apple.actool.compilation-results *//Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/LaunchImage-700-568h@2x.png/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Assets.car/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@58"file:///Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets/0000000000000000^1050"CompileAssetCatalog DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app Vibe/Images.xcassets    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app /Users/kevinnguy/Desktop/Vibe/Vibe/Images.xcassets36"691D00B7-0D9F-45AC-BD36-AC399273FAF8-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o /Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432364100.247420
+e432364100.434787
+r1
+xCompileC
+xDerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o
+x/Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m
+d/Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m211"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o Vibe/VIBAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler69703f445ac5b941^16516f445ac5b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m0000000000000000^3500"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o Vibe/VIBAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/Desktop/Vibe    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/Desktop/Vibe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-generated-files.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-own-target-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-all-target-headers.hmap -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-project-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources/armv7 -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources -F/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos -include /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.d --serialize-diagnostics /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.dia -c /Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.m -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o36"7CCD549A-3EEB-4E9A-835B-8C2E2AED55C7-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o /Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432364100.248102
+e432364100.632480
+r1
+xCompileC
+xDerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o
+x/Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m
+d/Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m217"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o Vibe/VIBViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6a83f445ac5b941^07eda1445ac5b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m0000000000000000^3518"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o Vibe/VIBViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/Desktop/Vibe    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/Desktop/Vibe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-generated-files.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-own-target-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-all-target-headers.hmap -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-project-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources/armv7 -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources -F/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos -include /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.d --serialize-diagnostics /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.dia -c /Users/kevinnguy/Desktop/Vibe/Vibe/VIBViewController.m -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o36"70963718-4023-4BB4-AF2C-CBAC75ABCDFE-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o /Users/kevinnguy/Desktop/Vibe/Vibe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432364100.247676
+e432364100.427613
+r1
+xCompileC
+xDerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o
+x/Users/kevinnguy/Desktop/Vibe/Vibe/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/Desktop/Vibe/Vibe/main.m
+d/Users/kevinnguy/Desktop/Vibe/Vibe/VIBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/kevinnguy/Desktop/Vibe/Vibe/main.m191"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o Vibe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c863f445ac5b941^fb776d445ac5b941^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/kevinnguy/Desktop/Vibe/Vibe/main.m0000000000000000^3440"CompileC DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o Vibe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/Desktop/Vibe    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/Desktop/Vibe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-generated-files.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-own-target-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-all-target-headers.hmap -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-project-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources/armv7 -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources -F/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos -include /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.dia -c /Users/kevinnguy/Desktop/Vibe/Vibe/main.m -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o36"27673676-1260-4F58-B413-3D4AA600A05F-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCompileStoryboard /Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard
+s432364100.890447
+e432364102.397606
+r1
+xCompileStoryboard
+x/Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard Vibe/Base.lproj/Main.storyboard49"CompileStoryboard Vibe/Base.lproj/Main.storyboard2104e4445ac5b941^7dca65465ac5b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard0000000000000000^761"CompileStoryboard Vibe/Base.lproj/Main.storyboard    cd /Users/kevinnguy/Desktop/Vibe    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Base.lproj/Main.storyboardc /Users/kevinnguy/Desktop/Vibe/Vibe/Base.lproj/Main.storyboard36"839C74BA-12D3-400E-8758-1EFD45ED28A3-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCopyStringsFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings Vibe/en.lproj/InfoPlist.strings
+s432364100.890257
+e432364100.892993
+r1
+xCopyStringsFile
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings
+xVibe/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Vibe/en.lproj/InfoPlist.strings130"CopyStringsFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings Vibe/en.lproj/InfoPlist.stringsef03e4445ac5b941^6f9ce4445ac5b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/kevinnguy/Desktop/Vibe/Vibe/en.lproj/InfoPlist.strings0000000000000000^576"CopyStringsFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj/InfoPlist.strings Vibe/en.lproj/InfoPlist.strings    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/en.lproj -- Vibe/en.lproj/InfoPlist.strings36"010F0F8D-FDAE-469D-8300-7886AE5C4387-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist
+s432364098.675509
+e432364098.685861
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist208"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist87bfae425ac5b941^5ebbb4425ac5b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist0034685ddeffdf42^754"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app36"79A23C0F-6D99-435F-AD41-5B13AE9078A8-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CGenerateDSYMFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe
+s432364102.800184
+e432364102.842991
+r1
+xGenerateDSYMFile
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generate /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM138"GenerateDSYMFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibeeae8cc465ac5b941^92cbd7465ac5b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM0034685ddeffdf42^649"GenerateDSYMFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app.dSYM36"9FDD360D-C6DD-49F2-8138-8C5AD741ABE0-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CLd /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe normal armv7
+s432364100.633682
+e432364100.889268
+r1
+xLd
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe
+xnormal
+xarmv7
+d/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/Vibe.LinkFileList
+d/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBAppDelegate.o
+d/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/main.o
+d/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/VIBViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe76"Ld DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe normal armv7d74ca2445ac5b941^b9a7e3445ac5b941^---0#0#1#--1288"Ld DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe normal armv7    cd /Users/kevinnguy/Desktop/Vibe    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos -F/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/Vibe.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Objects-normal/armv7/Vibe_dependency_info.dat -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Vibe36"88826593-7E45-406D-AA9A-079243F04FE2-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CProcessInfoPlistFile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist /Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist
+s432364102.796375
+e432364102.799646
+r1
+xProcessInfoPlistFile
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist
+x/Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process /Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist108"ProcessInfoPlistFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist Vibe/Vibe-Info.plistccf0cb465ac5b941^d0b8cc465ac5b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist0000000000000000^961"ProcessInfoPlistFile DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist Vibe/Vibe-Info.plist    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Info.plist -genpkginfo /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/ResourceRules.plist -additionalcontentfile /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/assetcatalog_generated_info.plist -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/Info.plist36"612F964F-B9CD-429E-B1EC-38F1819539F0-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CProcessPCH /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch Vibe/Vibe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432364098.687992
+e432364100.246546
+r1
+xProcessPCH
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch
+xVibe/Vibe-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Vibe/Vibe-Prefix.pch217"ProcessPCH DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch Vibe/Vibe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3944b0425ac5b941^6d1e3f445ac5b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Prefix.pch0000000000000000^3371"ProcessPCH DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch Vibe/Vibe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/Desktop/Vibe    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/Desktop/Vibe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-generated-files.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-own-target-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-all-target-headers.hmap -iquote /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe-project-headers.hmap -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources/armv7 -I/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/DerivedSources -F/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.d -c /Users/kevinnguy/Desktop/Vibe/Vibe/Vibe-Prefix.pch -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/PrecompiledHeaders/Vibe-Prefix-ezxrufzcykcbnkbnmhlqdfblcczl/Vibe-Prefix.pch.pch36"2A6B79C8-4352-419B-B2EA-463FF5D271D8-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CProcessPCH /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Index/PrecompiledHeaders/Vibe-Prefix-fxytfcgcykfsiaheqcdfuvxdepkc_ast/Vibe-Prefix.pch.pch Vibe/Vibe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent
+s432364102.847932
+e432364102.851968
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection229"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent229"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent9b21d9465ac5b941^7e1bda465ac5b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent0034685ddeffdf42^756"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Intermediates/Vibe.build/Debug-iphoneos/Vibe.build/Vibe.xcent36"E6C22985-98F7-47C4-9D4C-C58CB6F5FD0A-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision
+s432364102.843616
+e432364102.847032
+r1
+xProcessProductPackaging
+x/Users/kevinnguy/Library/MobileDevice/Provisioning Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision
+x/Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection218"ProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision218"ProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision4d11d8465ac5b941^aed7d8465ac5b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision0034685ddeffdf42^708"ProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision    cd /Users/kevinnguy/Desktop/Vibe    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/1bd0ff25-71bd-4ff0-a964-d16a1591d501.mobileprovision -o /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app/embedded.mobileprovision36"A399252E-0132-417D-B93A-053AC88949B8-
+b45466DB8-F31F-4445-8346-A4E714DFC01C
+
+CTouch /Users/kevinnguy/Desktop/Vibe/DerivedData/Vibe/Build/Products/Debug-iphoneos/Vibe.app
+r0
+
